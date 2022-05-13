@@ -1,0 +1,5 @@
+<?php
+$stmt->close();
+exit();
+
+?>
