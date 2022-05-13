@@ -3,8 +3,11 @@ House list demonstrating CRUD using php and phpMyadmin (XAMPP)
 
 Folders:
 addImage for adding house images
+
 addToList to add now property
+
 details - displays each property info
+
 datailsForWeb -displays details excluding back to list and print
 update - to update each property
 uploads - to store the saved info
