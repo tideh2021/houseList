@@ -5,7 +5,7 @@ $sName = "localhost";
 # user name
 $uName = "root";
 # password
-$pass = "";
+$pass = "your password";
 # database name
 // $db_name = "image_db";
 $db_name = "ritewood";
